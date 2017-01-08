@@ -43,6 +43,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="motorola" \
     PRODUCT_NAME="falcon" \
-    BUILD_FINGERPRINT="motorola/falcon_reteu/falcon_umts:5.1/LPB23.13-56/56:user/release-keys" \
+    BUILD_FINGERPRINT="motorola/falcon_reteu/falcon_umts:5.1/LPB23.13-56/56:user/release-keys"
 
 TARGET_VENDOR := Motorola
