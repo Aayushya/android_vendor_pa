@@ -1,0 +1,62 @@
+[ 
+    { 
+        "remote":       "github", 
+        "repository":   "lineageos/android_kernel_motorola_msm8226", 
+        "target_path":  "kernel/motorola/msm8226", 
+        "revision":     "cm-14.1" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "themuppets/proprietary_vendor_motorola", 
+        "target_path":  "vendor/motorola", 
+        "revision":     "cm-14.1" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "lineageos/android_device_motorola_falcon", 
+        "target_path":  "device/motorola/falcon", 
+        "revision":     "cm-14.1" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "lineageos/android_hardware_qcom_audio", 
+        "target_path":  "hardware/qcom/audio", 
+        "revision":     "cm-14.1-caf-8974" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "lineageos/android_hardware_qcom_display", 
+        "target_path":  "hardware/qcom/display", 
+        "revision":     "cm-14.1-caf-8974" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "lineageos/android_hardware_qcom_media", 
+        "target_path":  "hardware/qcom/media", 
+        "revision":     "cm-14.1-caf-8974" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "33bca/proprietary_vendor_qcom_binaries", 
+        "target_path":  "vendor/qcom/binaries", 
+        "revision":     "cm-14.1"
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "CyanogenMod/android_external_ant-wireless_antradio-library", 
+        "target_path":  "external/ant-wireless/antradio-library", 
+        "revision":     "cm-14.1" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "CyanogenMod/android_external_connectivity", 
+        "target_path":  "external/connectivity", 
+        "revision":     "cm-14.1" 
+    }, 
+    { 
+        "remote":       "github", 
+        "repository":   "CyanogenMod/android_external_stlport", 
+        "target_path":  "external/stlport", 
+        "revision":     "cm-14.1" 
+    } 
+]
